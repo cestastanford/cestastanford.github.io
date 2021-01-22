@@ -24,7 +24,7 @@ title: Schedule
 		<strong>Speaker</strong>: <a href="https://history.jhu.edu/directory/jessica-johnson/">Jessica Johnson </a>(Johns Hopkins University)<br/>
 		<strong>Venue</strong>: Online, via Zoom, 20:00 GMT (12:00 PST): <a href="#">Register now</a><br/>
 		<strong>Chair</strong>: Giovanna Ceserani<br/> 
-		<strong>UCL Graduate Respondent</strong>: TBD<br/>
+		<strong>UCL Graduate Respondent</strong>: Nenna Orie Chuku<br/>
 		<strong>Stanford Graduate Respondent</strong>: Anna Toledano
 	</div>
 </div>
