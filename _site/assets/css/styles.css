@@ -1,2 +1,5 @@
-.current {
-  color: green; }
+a {
+  color: #dd3248; }
+
+a:hover {
+  color: #9d2d3c; }
