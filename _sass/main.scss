@@ -1,4 +1,4 @@
-$logo-breakpoint: 859px;
+
 
 a {
 	color: rgb(221, 50, 72);
@@ -9,10 +9,38 @@ a:hover {
 	color: rgb(157, 45, 60);
 }
 
-@media (min-width: $logo-breakpoint) {
+@media (min-width: 809px) {
 
 .home-page-w-logo {
 	min-height: 66vh;
+	background: rgb(224, 224, 224);
+	width: auto;
+	background-image: url('/assets/images/series_logo.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position-x: center;
+	position: relative;
+}
+}
+
+@media (max-width: 810px) and (min-width: 550px) {
+
+.home-page-w-logo {
+	min-height: 45vh;
+	background: rgb(224, 224, 224);
+	width: auto;
+	background-image: url('/assets/images/series_logo.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position-x: center;
+	position: relative;
+}
+}
+
+@media (max-width: 549px) {
+
+.home-page-w-logo {
+	min-height: 33vh;
 	background: rgb(224, 224, 224);
 	width: auto;
 	background-image: url('/assets/images/series_logo.png');

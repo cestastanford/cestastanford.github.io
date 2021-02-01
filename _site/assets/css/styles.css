@@ -5,9 +5,29 @@ a {
 a:hover {
   color: #9d2d3c; }
 
-@media (min-width: 859px) {
+@media (min-width: 809px) {
   .home-page-w-logo {
     min-height: 66vh;
+    background: #e0e0e0;
+    width: auto;
+    background-image: url("/assets/images/series_logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    position: relative; } }
+@media (max-width: 810px) and (min-width: 550px) {
+  .home-page-w-logo {
+    min-height: 45vh;
+    background: #e0e0e0;
+    width: auto;
+    background-image: url("/assets/images/series_logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    position: relative; } }
+@media (max-width: 549px) {
+  .home-page-w-logo {
+    min-height: 33vh;
     background: #e0e0e0;
     width: auto;
     background-image: url("/assets/images/series_logo.png");
