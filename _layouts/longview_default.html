@@ -11,26 +11,34 @@
 </head>
 <body>
 	{% include navigation.html %}
-	<main class="container">
-
+	<main>
+		{% if page.url == '/' %}
 		<div class="py-5">
-			<div class= "container-fluid" style="min-height: 30vh; width: auto; background-image: url('/assets/images/cesta_ucldh_logos.jpeg'); background-size: contain; background-repeat: no-repeat; background-position-x: center;">
+			<div class= "container-fluid home-page-w-logo">
+				<div class="palladio">This network of seminar speakers was created with <a href="https://hdlab.stanford.edu/palladio/">Palladio</a>, a visualization tool created at CESTA.</div>
 			</div>
-			{% if page.url == '/' %}
-			<div class="container-fluid text-center">
+			<div class="container-fluid text-center pt-3">
 				<h5><em>A transnational seminar series</em></h5>
 				<h1>The Digital Humanities Long View</h1>
 			</div>
 			{% endif %}
-				<!--<div class="container text-center my-5"><h1>{{ page.title }}</h1></div>-->
-				<div class="row">
-					<div class="col"></div>
-					<div class="col-6 my-5">{{ content }}</div>
-					<div class="col"></div>
+			<!--<div class="container text-center my-5"><h1>{{ page.title }}</h1></div>-->
+			<div class="row">
+				<div class="col"></div>
+				<div class="col-6 my-5">{{ content }}</div>
+				<div class="col"></div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col text-center">
+					<a href="https://www.ucl.ac.uk/digital-humanities/"><img src="/assets/images/ucldh-logo.png" height="250px" class="float-end"></a>
+				</div>
+				<div class="col text-center">
+					<a href="https://cesta.stanford.edu/"><img src="/assets/images/cesta_transparent.png" height="250px" class="float-start"></a>
 				</div>
 			</div>
 		</div>
-
 	</main>
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
 </body>

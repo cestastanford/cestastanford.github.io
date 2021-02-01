@@ -6,7 +6,7 @@ title: Schedule
 <h1 class="text-center my-5" id="top">Schedule</h1>
 
 <div class="card" id="milligan">
-	<div class="card-body">
+	<div class="card-body past-talk">
 		<h4 class="card-title">Wednesday, 27 Jan 2021</h4>
 		<h5 class="card-subtitle mb-2 text-muted">From Engagement to Retreat? Historians and Digital Preservation 1968-2003</h5>
 		<strong>Speaker</strong>: <a href="https://uwaterloo.ca/history/people-profiles/ian-milligan">Ian Milligan </a>(University of Waterloo)<br/>

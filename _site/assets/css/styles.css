@@ -1,5 +1,46 @@
 a {
-  color: #dd3248; }
+  color: #dd3248;
+  cursor: pointer; }
 
 a:hover {
   color: #9d2d3c; }
+
+@media (min-width: 859px) {
+  .home-page-w-logo {
+    min-height: 66vh;
+    background: #e0e0e0;
+    width: auto;
+    background-image: url("/assets/images/series_logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    position: relative; } }
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 1) {
+  .home-page-w-logo {
+    min-height: 33vh;
+    background: #e0e0e0;
+    width: auto;
+    background-image: url("/assets/images/series_logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    position: relative; } }
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+  .home-page-w-logo {
+    min-height: 20vh;
+    background: #e0e0e0;
+    width: auto;
+    background-image: url("/assets/images/series_logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    position: relative; } }
+.palladio {
+  position: absolute;
+  bottom: 8px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 8px; }
+
+.past-talk {
+  background: #dee2e6; }
