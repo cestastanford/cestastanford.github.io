@@ -45,7 +45,7 @@ title: Schedule
 <div class="card" id="quiroga">
 	<div class="card-body">
 		<h4 class="card-title">Wednesday, 10 Mar 2021</h4>
-		<h5 class="card-subtitle mb-2 text-muted">Title t.b.c.</h5>
+		<h5 class="card-subtitle mb-2 text-muted">Multilingual Publishing in Digital Humanities</h5>
 		<strong>Speaker</strong>: <a href="https://rivaquiroga.cl/proyectos/">Riva Quiroga </a>(Programming Historian)<br/>
 		<strong>Venue</strong>: Online, via Zoom, 13:00 GMT (05:00 PST): <a href="https://www.eventbrite.co.uk/e/riva-quiroga-multilingual-digital-humanities-tickets-136609052353">Register now</a><br/>
 		<strong>Chair</strong>: Adam Crymble<br/> 
