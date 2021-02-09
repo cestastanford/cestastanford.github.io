@@ -10,7 +10,7 @@ title: Schedule
 		<h4 class="card-title">Wednesday, 27 Jan 2021</h4>
 		<h5 class="card-subtitle mb-2 text-muted">From Engagement to Retreat? Historians and Digital Preservation 1968-2003</h5>
 		<strong>Speaker</strong>: <a href="https://uwaterloo.ca/history/people-profiles/ian-milligan">Ian Milligan </a>(University of Waterloo)<br/>
-		<strong>Venue</strong>: Online, via Zoom, 17:00 GMT (09:00 PST): <a href="https://mediacentral.ucl.ac.uk/Play/54356">View the talk</a><br/>
+		<strong>Venue</strong>: Online, via Zoom, 17:00 GMT (09:00 PST): <a href="https://mediacentral.ucl.ac.uk/Play/54356">View the talk</a> or <a href="/milligan.html">read a recap</a><br/>
 		<strong>Chair</strong>: Adam Crymble<br/> 
 		<strong>UCL Graduate Respondent</strong>: Hannah Smyth<br/>
 		<strong>Stanford Graduate Respondent</strong>: Agnieszka Backman
@@ -18,7 +18,7 @@ title: Schedule
 </div>
 <p></p>
 <div class="card" id="johnson">
-	<div class="card-body">
+	<div class="card-body past-talk">
 		<h4 class="card-title">Tuesday, 9 Feb 2021</h4>
 		<h5 class="card-subtitle mb-2 text-muted">Digital Humanities Against Enclosure</h5>
 		<strong>Speaker</strong>: <a href="https://history.jhu.edu/directory/jessica-johnson/">Jessica Johnson </a>(Johns Hopkins University)<br/>
