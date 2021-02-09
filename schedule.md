@@ -38,7 +38,7 @@ title: Schedule
 		<strong>Venue</strong>: Online, via Zoom, 20:00 GMT (12:00 PST): <a href="https://www.eventbrite.co.uk/e/zephyr-frank-digital-humanities-spatial-history-atlantic-world-stories-tickets-136608235911">Register now</a><br/>
 		<strong>Chair</strong>: Laura Stokes<br/> 
 		<strong>UCL Graduate Respondent</strong>: TBD<br/>
-		<strong>Stanford Graduate Respondent</strong>: TBD
+		<strong>Stanford Graduate Respondent</strong>: William Parish
 	</div>
 </div>
 <p></p>
@@ -49,8 +49,8 @@ title: Schedule
 		<strong>Speaker</strong>: <a href="https://rivaquiroga.cl/proyectos/">Riva Quiroga </a>(Programming Historian)<br/>
 		<strong>Venue</strong>: Online, via Zoom, 13:00 GMT (05:00 PST): <a href="https://www.eventbrite.co.uk/e/riva-quiroga-multilingual-digital-humanities-tickets-136609052353">Register now</a><br/>
 		<strong>Chair</strong>: Adam Crymble<br/> 
-		<strong>UCL Graduate Respondent</strong>: TBD<br/>
-		<strong>Stanford Graduate Respondent</strong>: TBD
+		<strong>UCL Graduate Respondent</strong>: George Cooper<br/>
+		<strong>Stanford Graduate Respondent</strong>: Victoria Rahbar
 	</div>
 </div>
 <p></p>
@@ -62,8 +62,8 @@ title: Schedule
 		<strong>Speaker</strong>: <a href="https://dlcl.stanford.edu/people/quinn-dombrowski">Quinn Dombrowski </a>(Stanford University)<br/>
 		<strong>Venue</strong>: Online, via Zoom, 17:00 GMT (09:00 PST): <a href="https://www.eventbrite.co.uk/e/quinn-dombrowski-histories-and-futures-of-linguistic-diversity-in-dh-tickets-137766408035">Register now</a><br/>
 		<strong>Chair</strong>: Agnieszka Backman<br/> 
-		<strong>UCL Graduate Respondent</strong>: TBD<br/>
-		<strong>Stanford Graduate Respondent</strong>: TBD
+		<strong>UCL Graduate Respondent</strong>: Jin Gao<br/>
+		<strong>Stanford Graduate Respondent</strong>: Maciej Kurzynski
 	</div>
 </div>
 <p></p>
@@ -87,7 +87,7 @@ title: Schedule
 		<strong>Speaker</strong>: <a href="https://liberalarts.tamu.edu/english/profile/amy-earhart/">Amy Earhart </a>(Texas A&M University)<br/>
 		<strong>Venue</strong>: Online, via Zoom, 17:00 GMT (09:00 PST): <a href="https://www.eventbrite.co.uk/e/complicating-the-whiteness-of-digital-humanities-deep-history-of-black-dh-tickets-132245450703">Register now</a><br/>
 		<strong>Chair</strong>: Julianne Nyhan<br/> 
-		<strong>UCL Graduate Respondent</strong>: TBD<br/>
+		<strong>UCL Graduate Respondent</strong>: Malithi Alahappruna<br/>
 		<strong>Stanford Graduate Respondent</strong>: TBD
 	</div>
 </div>
@@ -100,7 +100,7 @@ title: Schedule
 		<strong>Venue</strong>: Online, via Zoom, 17:00 GMT (09:00 PST): <a href="https://www.eventbrite.co.uk/e/the-web-archives-long-view-tickets-129661660517">Register now</a><br/>
 		<strong>Chair</strong>: Giovanna Ceserani<br/> 
 		<strong>UCL Graduate Respondent</strong>: Opher Mansour<br/>
-		<strong>Stanford Graduate Respondent</strong>: TBD
+		<strong>Stanford Graduate Respondent</strong>: Merve Tekgurler
 	</div>
 </div>
 <p></p>
