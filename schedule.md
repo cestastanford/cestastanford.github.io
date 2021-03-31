@@ -47,7 +47,7 @@ title: Schedule
 		<h4 class="card-title">Wednesday, 10 Mar 2021</h4>
 		<h5 class="card-subtitle mb-2 text-muted">Multilingual Publishing in Digital Humanities</h5>
 		<strong>Speaker</strong>: <a href="https://rivaquiroga.cl/proyectos/">Riva Quiroga </a>(Programming Historian)<br/>
-		<strong>Venue</strong>: UCL DH, Online, via Zoom, 13:00 GMT (05:00 PST): <a href="https://mediacentral.ucl.ac.uk/Play/59506">View the talk</a><br/>
+		<strong>Venue</strong>: UCL DH, Online, via Zoom, 13:00 GMT (05:00 PST): <a href="/milligan.html">View the talk & read a recap</a><br/>
 		<strong>Chair</strong>: Adam Crymble<br/> 
 		<strong>UCL Respondent</strong>: George Cooper<br/>
 		<strong>Stanford Respondent</strong>: Victoria Rahbar
