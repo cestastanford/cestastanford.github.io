@@ -69,7 +69,7 @@ title: Schedule
 <p></p>
 
 <div class="card" id="weingart">
-	<div class="card-body">
+	<div class="card-body past-talk">
 		<h4 class="card-title">Tuesday, 27 Apr 2021</h4>
 		<h5 class="card-subtitle mb-2 text-muted">A Look Backwards Through the Index of Digital Humanities Conferences</h5>
 		<strong>Speakers</strong>: <a href="https://www.library.cmu.edu/about/people/scott-weingart">Scott Weingart </a>(Carnegie Mellon University), <a href="https://www.colorado.edu/libraries/nickoal-eichmann-kalwara">Nickoal Eichmann-Kalwara</a> (University of Colorado, Boulder)<br/>
@@ -81,7 +81,7 @@ title: Schedule
 </div>
 <p></p>
 <div class="card" id="earhart">
-	<div class="card-body">
+	<div class="card-body past-talk">
 		<h4 class="card-title">Wednesday, 12 May 2021</h4>
 		<h5 class="card-subtitle mb-2 text-muted">Complicating the whiteness of Digital Humanities:  The Deep History of Black DH</h5>
 		<p class="card-subtitle mb-2">While projects focused on Black culture, texts and artifacts are not as rare as they once were there remains a lack of understanding of the rich and deep histories of Black DH and its impact on the field. Sharon Leon’s foundation chapter, “Complicating a ‘Great Man’ Narrative of Digital History in the United States,” serves as a model of the necessary documentation that scholars must compile of alternative histories of digital humanities. Accordingly, this talk will document a deep dig into the ecology of digital humanities, centering Black DH work in the field. Among the scholars’ work discussed will be Abduhl Alkalimat, creator of e-black studies, Bryan Carter, Virtual Harlem, Marilyn Miller Thomas-Houston, iBlack Studies and co-editor of the multi-media journal Fire!!, Ronald Bailey, who developed www.dignubia.org and www.nubianet.org and Afro Publishing without Walls, and Maryemma Graham, History of Black writing. An ongoing project, I am conducting interviews with such foundational Black dh scholars to better understand their contributions to the field.</p>
