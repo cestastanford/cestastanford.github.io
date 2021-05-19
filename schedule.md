@@ -73,7 +73,7 @@ title: Schedule
 		<h4 class="card-title">Tuesday, 27 Apr 2021</h4>
 		<h5 class="card-subtitle mb-2 text-muted">A Look Backwards Through the Index of Digital Humanities Conferences</h5>
 		<strong>Speakers</strong>: <a href="https://www.library.cmu.edu/about/people/scott-weingart">Scott Weingart </a>(Carnegie Mellon University), <a href="https://www.colorado.edu/libraries/nickoal-eichmann-kalwara">Nickoal Eichmann-Kalwara</a> (University of Colorado, Boulder)<br/>
-		<strong>Venue</strong>: UCL DH, Online, via Zoom, 17:00 GMT (09:00 PST): <a href="https://www.eventbrite.co.uk/e/weingart-a-look-backwards-through-the-index-of-dh-conferences-tickets-137766656779">Register now</a><br/>
+		<strong>Venue</strong>: UCL DH, Online, via Zoom, 17:00 GMT (09:00 PST): <a href="">Recording forthcoming</a><br/>
 		<strong>Chair</strong>: Laura Stokes<br/> 
 		<strong>UCL Respondent</strong>: TBD<br/>
 		<strong>Stanford Respondent</strong>: Yunxin Li
@@ -86,7 +86,7 @@ title: Schedule
 		<h5 class="card-subtitle mb-2 text-muted">Complicating the whiteness of Digital Humanities:  The Deep History of Black DH</h5>
 		<p class="card-subtitle mb-2">While projects focused on Black culture, texts and artifacts are not as rare as they once were there remains a lack of understanding of the rich and deep histories of Black DH and its impact on the field. Sharon Leon’s foundation chapter, “Complicating a ‘Great Man’ Narrative of Digital History in the United States,” serves as a model of the necessary documentation that scholars must compile of alternative histories of digital humanities. Accordingly, this talk will document a deep dig into the ecology of digital humanities, centering Black DH work in the field. Among the scholars’ work discussed will be Abduhl Alkalimat, creator of e-black studies, Bryan Carter, Virtual Harlem, Marilyn Miller Thomas-Houston, iBlack Studies and co-editor of the multi-media journal Fire!!, Ronald Bailey, who developed www.dignubia.org and www.nubianet.org and Afro Publishing without Walls, and Maryemma Graham, History of Black writing. An ongoing project, I am conducting interviews with such foundational Black dh scholars to better understand their contributions to the field.</p>
 		<strong>Speaker</strong>: <a href="https://liberalarts.tamu.edu/english/profile/amy-earhart/">Amy Earhart </a>(Texas A&M University)<br/>
-		<strong>Venue</strong>: UCL DH, Online, via Zoom, 17:00 GMT (09:00 PST): <a href="https://www.eventbrite.co.uk/e/complicating-the-whiteness-of-digital-humanities-deep-history-of-black-dh-tickets-132245450703">Register now</a><br/>
+		<strong>Venue</strong>: UCL DH, Online, via Zoom, 17:00 GMT (09:00 PST): <a href="">Recording forthcoming</a><br/>
 		<strong>Chair</strong>: Julianne Nyhan<br/> 
 		<strong>UCL Respondent</strong>: Malithi Alahappruna<br/>
 		<strong>Stanford Respondent</strong>: Lakmali Jayasinghe
