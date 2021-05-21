@@ -114,7 +114,6 @@ title: Schedule
 		<p class="card-subtitle mb-2">This talk has two parts. It will first attempt to frame what a history of digital history might look like, by focusing on hybridity as a key characteristic of historical research, seen as some form of integrating newly emerging tools, technologies, materials, and/or practices in historical research, and mapped and qualified according to the main phases of historical research. My main argument here is that, in order to ground our current ‘digital’ practices and learn from past experiences and expertise, we need an answer to the question: what were, and are, the continuities and ruptures in the use and uptake of new technologies in historical research, and in the debates that accompanied them?<br /><br />
 		The paper will then proceed to outline what groundwork is necessary to explore digital history’s forgotten roots: a basic overview of the field’s different spatio-temporal trajectories and the networks of computing historians in the pre-PC and early PC period. A key focal point for such a reconstruction are the DH conferences that took place in the 1960s and 1970s, either as singular events or strands of bigger conferences such as the International Congress of Historical Sciences in Moscow in 1970, and later those that were organised under the aegis of the Association for History and Computing (AHC, 1987-2001) and its national member organisations. By studying which scholars attended and where they came from, and by linking that to the topics and methods that were discussed, it will be possible to chart, over time, shifting geographical, topical and methodological developments.<br /><br />
 	In the second part of my paper, I will provide the first results of a concrete case study which is part of this broader endeavour, namely a web archaeology of the old AHC website and H-NET Discussion List for History and Computing (now: H-DigitalHistory).</p>
-
 		<strong>Speaker</strong>: <a href="https://www.c2dh.uni.lu/people/gerben-zaagsma">Gerben Zaagsma </a>(University of Luxembourg)<br/>
 		<strong>Venue</strong>: UCL DH, Online, via Zoom, 17:00 GMT (09:00 PST): <a href="https://www.eventbrite.co.uk/e/tbd-tickets-136609184749?aff=">Register now</a><br/>
 		<strong>Chair</strong>: Julianne Nyhan<br/> 
@@ -129,10 +128,10 @@ title: Schedule
 		<h4 class="card-title">Tuesday, 22 June 2021</h4>
 		<h5 class="card-subtitle mb-2 text-muted">Laboratory Life in the Humanities: Computation, Criticism, and Collaboration</h5>
 		<strong>Speaker</strong>: <a href="https://english.stanford.edu/people/mark-algee-hewitt">Mark Algee-Hewitt </a>(Stanford University)<br/>
-		<strong>Venue</strong>: CESTA, Online, via Zoom, 12:00 PST (20:00 GMT): <a href="">Registration info to come</a><br/>
+		<strong>Venue</strong>: CESTA, Online, via Zoom, 12:00 PST (20:00 GMT): <a href="https://www.eventbrite.co.uk/e/laboratory-life-in-the-humanities-computation-criticism-collaboration-tickets-146341382013">Register now</a><br/>
 		<strong>Chair</strong>: Agnieszka Backman<br/> 
-		<strong>UCL Respondent</strong>: TBD<br/>
-		<strong>Stanford Respondent</strong>: TBD
+		<strong>UCL Respondent</strong>: Urszula Pawlicka-Deger (King’s College London)<br/>
+		<strong>Stanford Respondent</strong>: Mae Velloso-Lyons
 	</div>
 </div>
 <p></p>
