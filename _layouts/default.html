@@ -2,21 +2,45 @@
 <html>
 <head>
 	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>{{ page.title }}</title>
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
 	<link rel="stylesheet" href="/assets/css/styles.css">
+	<link rel="preconnect" href="https://fonts.gstatic.com"> 
+	<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
+	<link rel="shortcut icon" type="image/png" href="/favicon.png">
 </head>
 <body>
 	{% include navigation.html %}
-	<main class="container">
-
-		<div class="starter-template text-left py-5">
-			<div class="container-sm">
-				{{ content }}
+	<main>
+		{% if page.url == '/' %}
+		<div class="py-5">
+			<div class= "container-fluid home-page-w-logo">
+				<div class="palladio">This network of seminar speakers was created with <a href="https://hdlab.stanford.edu/palladio/">Palladio</a>, a visualization tool designed and built at CESTA.</div>
+			</div>
+			<div class="container-fluid text-center pt-3">
+				<h5><em>A transnational seminar series</em></h5>
+				<h1>The Digital Humanities Long View</h1>
+			</div>
+			{% endif %}
+			<!--<div class="container text-center my-5"><h1>{{ page.title }}</h1></div>-->
+			<div class="row">
+				<div class="col"></div>
+				<div class="col-6 my-5">{{ content }}</div>
+				<div class="col"></div>
 			</div>
 		</div>
-
+		<div class="container">
+			<div class="row">
+				<div class="col text-center">
+					<a href="https://www.ucl.ac.uk/digital-humanities/"><img src="/assets/images/ucldh-logo.png" height="250px" class="float-end"></a>
+				</div>
+				<div class="col text-center">
+					<a href="https://cesta.stanford.edu/"><img src="/assets/images/cesta_transparent.png" height="250px" class="float-start"></a>
+				</div>
+			</div>
+		</div>
 	</main>
-	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
 </body>
 </html>
