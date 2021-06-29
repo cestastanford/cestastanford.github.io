@@ -33,5 +33,5 @@ It remains contested whether DH should be an academic field. While being a field
 Several interesting questions came up during the Q&A. One question was how organizers of future DH conferences could make the data collection smoother. Scott suggested having unique identifiers for authors to help disambiguate authors’ names, as well as having conferences collect participants’ demographic data, as long as the data are kept safe, so that the DH community can better figure out how to make itself more justice-oriented. 
 
 
-#### Respondents:
+#### Respondent:
 **Yunxin Li** is a Ph.D. Candidate working on early China in the History Department of Stanford. Her research focuses on the inner court, gender, and politics in the Han empire. As a former graduate fellow at the Center for Spatial and Textual Analysis, she is interested in network analysis, spatial analysis, and computational text analysis. More information can be found on her [personal website](http://yunxinli.su.domains/).
