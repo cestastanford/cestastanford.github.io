@@ -7,4 +7,4 @@ title: Contact
 
 <p class="text-center"><strong>UCL Lead Contact</strong>: <a href="mailto: a.crymble@ucl.ac.uk">Adam Crymble</a></p>
 
-<p class="text-center"><strong>Stanford Lead Contact</strong>: <a href="mailto: abackman@stanford.edu">Agnieszka Backman</a></p>
+<p class="text-center"><strong>Stanford Lead Contact</strong>: <a href="mailto: nfenech@stanford.edu">Nicholas Fenech</a></p>
