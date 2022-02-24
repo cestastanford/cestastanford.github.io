@@ -3,14 +3,9 @@ layout: longview_default
 title: Schedule
 ---
 
-<h1 class="text-center my-5" id="top">Schedule</h1>
 
----
-layout: longview_default
-title: Schedule
----
 
-<h1 class="text-center my-5" id="top">Schedule</h1>
+<h1 class="text-center my-5" id="top">2022 Schedule</h1>
 
 <div class="card" id="Menon">
 	<div class="card-body past-talk">
@@ -92,6 +87,7 @@ title: Schedule
 	</div>
 </div>
 
+<h1 class="text-center my-5" id="top">Previous 2021 Events</h1>
 
 
 <div class="card" id="milligan">
