@@ -51,8 +51,8 @@ title: Schedule
 <div class="card" id="Risam">
 	<div class="card-body past-talk">
 		<h4 class="card-title">Thursday, 5 May 2022</h4>
-		<h5 class="card-subtitle mb-2 text-muted">Transnational Digital Humanities in the Digital Black Atlantic
-		<p class="card-subtitle mb-2">How do we reconcile transnationalism in the context of digital humanities? In what ways does transnationality risk perpetuating inequalities in digital knowledge production? In this talk, Roopika Risam will discuss her work co-editing The Digital Black Atlantic with Kelly Baker Josephs, as well as her work on the Pan-Africanism Data Project, to explore the fraught nature of transnational discourses and practices in digital humanities. 
+		<h5 class="card-subtitle mb-2 text-muted">Transnational Digital Humanities in the Digital Black Atlantic</h5>
+		<p class="card-subtitle mb-2">How do we reconcile transnationalism in the context of digital humanities? In what ways does transnationality risk perpetuating inequalities in digital knowledge production? In this talk, Roopika Risam will discuss her work co-editing The Digital Black Atlantic with Kelly Baker Josephs, as well as her work on the Pan-Africanism Data Project, to explore the fraught nature of transnational discourses and practices in digital humanities. </p>
 		<strong>Speaker</strong>: <a href="http://www.roopikarisam.com/about/">Prof. Roopika Risam </a>(Salem State)<br/>
 		<strong>Venue</strong>: CESTA, Online, via Zoom, 9:00 GMT (17:00 PST)<br/>
     <strong>Registration</strong>: Interested participants may register <a href="https://stanford.zoom.us/webinar/register/WN_w8R3zm0SS66KpJ9WHHCQ-A">here</a><br/>
